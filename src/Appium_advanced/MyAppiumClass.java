@@ -1,4 +1,4 @@
-package poem_advanced;
+package Appium_advanced;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
